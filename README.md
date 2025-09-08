@@ -1,6 +1,5 @@
 
 ## Hello Guys 🫶 I'm Khaled Magdy
-## Demo
 
 A frontend developer with strong experience in building high-performance, scalable web applications using HTML, CSS, JavaScript, React.js, and Next.js. Possesses advanced skills in designing interactive interfaces with GSAP to enhance user experience. Focused on optimizing website components for fast loading and smooth interaction. Demonstrates an exceptional ability to collaborate with cross-functional teams to deliver robust applications that meet project goals and adhere to the latest industry standards.
 
